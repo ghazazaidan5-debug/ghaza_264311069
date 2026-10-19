@@ -1,7 +1,7 @@
---1.Select
---2.Join
---3.Where
---4.Group By
+1.Select
+2.Join
+3.Where
+4.Group By
 
 SELECT
     m.nama_mahasiswa,
